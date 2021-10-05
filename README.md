@@ -24,7 +24,7 @@ ADD THIS INTO YOUR shared.lua (in your qbcore folder)
 ```
 
 
-Upload the lotto.jpg into your inventory/html/images folder
+Upload the lotto.png into your inventory/html/images folder
 
 
 Have some FUN !!!
